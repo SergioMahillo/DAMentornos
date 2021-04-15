@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 creo archivo en master -
 otra linea mas en master also
+=======
+creo archivo pruebas2 -
+otra linea mas
+>>>>>>> pruebas2
